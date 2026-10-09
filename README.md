@@ -24,69 +24,46 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 ## 🧰 Technical Skills
 
 ### 🌐 Web Development
+### 🌐 Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="HTML" /> HTML
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="CSS" /> CSS
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js" /> Next.js
 </p>
-
-<p align="center">
-  HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Next.js
-</p>
-
----
 
 ### 🗄️ Database & Analytics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" />
-  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="50" alt="Power BI" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="SQL" /> SQL
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="25" alt="Power BI" /> Power BI
 </p>
-
-<p align="center">
-  SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Power BI
-</p>
-
----
 
 ### 🤖 AI-Assisted Development Tools
 
-<p align="center">
-  <img src="https://cline.bot/favicon.ico" height="45" alt="Cline" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://opencode.ai/favicon.ico" height="45" alt="OpenCode" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=windows" height="45" alt="CLI tools" />
+<p>
+  <img src="https://cline.bot/favicon.ico" height="25" alt="Cline" /> Cline
+  &nbsp;&nbsp;
+  <img src="https://opencode.ai/favicon.ico" height="25" alt="OpenCode" /> OpenCode
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" height="25" alt="CLI Tools" /> CLI Tools
 </p>
-
-<p align="center">
-  Cline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  OpenCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  CLI Tools
-</p>
-
----
 
 ### 🔧 Version Control & Deployment
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="25" alt="Git" /> Git
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="GitHub" /> GitHub
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="Vercel" /> Vercel
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="25" alt="Netlify" /> Netlify
 </p>
 
-<p align="center">
-  Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Vercel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Netlify
-</p>
 
 ---
 
