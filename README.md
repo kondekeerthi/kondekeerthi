@@ -33,13 +33,14 @@ I enjoy exploring new technologies, solving problems, and continuously improving
   <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js" /> Next.js
 </p>
 
-
 ### 🗄️ Database & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="MySQL" /> MySQL
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" height="25" alt="SQL" /> SQL
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25" alt="Power BI" /> Power BI
 </p>
 
 ### 🤖 AI-Assisted Development Tools
