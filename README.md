@@ -27,6 +27,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <br>
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
 </p>
