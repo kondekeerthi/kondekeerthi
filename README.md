@@ -1,138 +1,145 @@
-# 👋 Hi, I'm Konde Keerthi
+<div align="center">
 
-### 🤖 AI Developer | Web Development | Data Analytics | AI-Assisted Engineering
+# <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub"> KONDE KEERTHI
 
-Welcome to my GitHub profile!
+### **AI Developer** &middot; **Electronics & Communication Engineering (B.Tech)**
 
-I'm currently working as an **AI Developer in PCS at the Police Department (Chief Office)**. I hold a **B.Tech degree in Electronics and Communication Engineering (ECE)** and am interested in building practical applications using AI-assisted development tools, modern web technologies, and data analytics.
+> Building practical, technology-driven solutions with AI-assisted development, modern web applications, and data-driven analytics.
 
-I enjoy exploring new technologies, solving problems, and continuously improving my development skills.
-
----
-
-## 👨‍💻 About Me
-
-* 💼 **Current Role:** AI Developer 
-* 🎓 **Education:** B.Tech in Electronics and Communication Engineering
-* 💻 **Interests:** AI Development, Web Development, Data Analytics
-* 🛠️ **Development Approach:** AI-assisted coding and modern development workflows
-* 🌱 **Currently Exploring:** AI-powered applications, Next.js, and DevOps practices
-* 🎯 **Goal:** Build useful, reliable, and efficient technology solutions.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KondeKeerthi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&icon_color=7cbbff&title_color=ffffff&text_color=ccd0da)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KondeKeerthi&layout=compact&theme=chartreuse-dark&bg_color=0d1117&text_color=ccd0da&langs_color=7cbbff)]
 
 ---
 
-## 🧰 Technical Skills
+### 🌟 **Professional Summary**
 
-### 🌐 Web Development
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="25" alt="HTML" /> HTML
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="CSS" /> CSS
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js" /> Next.js
-</p>
-
-### 🗄️ Database & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="SQL" /> SQL
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="25" alt="Power BI" /> Power BI
-</p>
-
-### 🤖 AI-Assisted Development Tools
-
-<p>
-  <img src="https://cline.bot/favicon.ico" height="25" alt="Cline" /> Cline
-  &nbsp;&nbsp;
-  <img src="https://opencode.ai/favicon.ico" height="25" alt="OpenCode" /> OpenCode
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=windows" height="25" alt="CLI Tools" /> CLI Tools
-</p>
-
-### 🔧 Version Control & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="25" alt="Git" /> Git
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="25" alt="GitHub" /> GitHub
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="Vercel" /> Vercel
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" height="25" alt="Netlify" /> Netlify
-</p>
-
+AI Developer at **PCS, Police Department (Chief Office)** with a **B.Tech in Electronics and Communication Engineering**. Passionate about **AI-assisted software development**, **modern web applications**, **data analytics**, and **technology-driven solutions** that deliver real-world impact.
 
 ---
 
-### ⚙️ DevOps & Development
+### ⚡ **Quick Facts**
+
+<div align="center">
+
+| | |
+|---|---|
+| **👋 Name** | Konde Keerthi |
+| **🎯 Current Role** | AI Developer |
+| **🏢 Organization** | PCS, Police Department (Chief Office) |
+| **🎓 Education** | B.Tech in Electronics and Communication Engineering |
+| **🔭 Focus** | AI-assisted development · Web apps · Data analytics |
+
+</div>
+
+---
+
+### 🛠 **Technical Skills**
+
+<div align="center">
+
+#### 🌐 Web Development
+![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp; ![NextJS](https://skillicons.dev/icons?i=nextjs)
+
+#### 🗄 Databases & Analytics
+![SQL](https://skillicons.dev/icons?i=sql) &nbsp; ![PowerBI](https://skillicons.dev/icons?i=powerbi)
+
+#### 🤖 AI-Assisted Development Tools
+![Cline](https://skillicons.dev/icons?i=cline) &nbsp; ![OpenCode](https://skillicons.dev/icons?i=opencode) &nbsp; ![CLI](https://skillicons.dev/icons?i=gnu-bash)
+
+#### 🔀 Version Control
+![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github)
+
+#### 🚀 Deployment & DevOps
+![Vercel](https://skillicons.dev/icons?i=vercel) &nbsp; ![Netlify](https://skillicons.dev/icons?i=netlify)
+
+</div>
+
+---
+
+### 📦 **Tools I Use**
+
+| Category | Tools |
+|---|---|
+| **AI Coding Assistants** | Cline, OpenCode |
+| **Frontend Framework** | Next.js |
+| **Deployment** | Vercel, Netlify |
+| **CLI & Terminal** | GNU Bash, Git Bash, Windows Terminal |
+| **Version Control** | Git, GitHub |
+| **Analytics & Data** | SQL, Power BI |
+
+> 📌 *I am currently learning additional frameworks, libraries, and cloud platforms to broaden my development capabilities.*
+
+---
+
+### 📂 **Featured Projects**
+
+> ⚠️ *These are placeholders — replace with your actual GitHub repositories.*
+
+| Project | Description | Status |
+|---|---|---|
+| `[project-name]` | `[Short description of what the project does and the problem it solves]` | `🔄 In Progress` |
+| `[project-name]` | `[Short description of what the project does and the problem it solves]` | `🚀 Completed` |
+| `[project-name]` | `[Short description of what the project does and the problem it solves]` | `🔄 In Progress` |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git workflows" />
-</p>
-
-<p align="center">
-  Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Git Workflows
-</p>
-
-### ⚙️ DevOps & Development Workflows
-
-* Git and GitHub version control
-* Command-line interface (CLI) tools
-* Application deployment and hosting
-* Modern development and DevOps workflows
-
----
-
-
-## 📚 Currently Learning & Exploring
-
-* 🤖 AI-assisted software development
-* 🌐 Modern web application development with Next.js
-* 🗄️ SQL and data analytics
-* 📊 Business intelligence with Power BI
-* ⚙️ DevOps, deployment, and automation
-* 💻 AI-powered CLI development tools
-
----
-
-## 📊 GitHub Statistics
-
-Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most used programming languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  <a href="[GitHub repo link]">
+    <img src="https://img.shields.io/badge/🔗-[project-name]-blue?logo=github&logoColor=white&labelColor=1b1b3a&color=6dbbff" alt="[project-name] on GitHub">
   </a>
 </p>
 
-📧 **Email:** kkeerthireddy1999@gmail.com.
+---
+
+### 📚 **Currently Learning**
+
+- 🤖 **AI Development** — Large language models, prompt engineering, and AI-assisted workflows
+- 🌐 **Modern Web Application Development** — Next.js, React, and performance optimization
+- 📊 **Data Analytics** — SQL, Power BI, and data visualization
+- ⚙️ **Automation & DevOps** — Shell scripting, CI/CD pipelines, and modern development workflows
 
 ---
 
-### 💡 My Philosophy
+### 🎨 **GitHub Statistics**
 
-*"Keep learning, keep building, and use technology to solve real-world problems."*
+> ⚠️ *These statistics are generated automatically from your GitHub profile. Replace `KondeKeerthi` in the URLs below with your actual GitHub username.*
 
-Thanks for visiting my profile! 😊
+<div align="center">
+
+### 🔥 **Profile Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KondeKeerthi&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&icon_color=7cbbff&title_color=ffffff&text_color=ccd0da)
+
+### 💻 **Most Used Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KondeKeerthi&layout=compact&theme=chartreuse-dark&bg_color=0d1117&text_color=ccd0da&langs_color=7cbbff)
+
+</div>
+
+---
+
+### 🔗 **Connect With Me**
+
+| Platform | Link |
+|---|---|
+| 💼 **LinkedIn** | `[linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)` |
+| 📧 **Email** | `[your.email@example.com](mailto:your.email@example.com)` |
+| 🌐 **Portfolio** | `[yourportfolio.com](https://yourportfolio.com)` |
+
+---
+
+### 🙏 **Closing Thoughts**
+
+I am building useful, technology-driven solutions and continuously improving my development skills through AI-assisted development, modern web technologies, and data-driven analytics. Thank you for visiting my profile! 👋
+
+<div align="center">
+
+**⭐ If you find this README helpful, consider starring the repository!**
+
+</div>
+
+---
+
+### 📄 **License**
+
+This project is licensed under the MIT License — feel free to use and adapt it for your own GitHub profile.
+
+</div>
