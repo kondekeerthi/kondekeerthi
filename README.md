@@ -26,8 +26,13 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs" alt="HTML, CSS, Next.js" />
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="HTML" /> HTML
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="CSS" /> CSS
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js" /> Next.js
 </p>
+
 
 ### 🗄️ Database & Analytics
 
