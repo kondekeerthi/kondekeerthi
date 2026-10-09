@@ -12,9 +12,9 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ## 👨‍💻 About Me
 
-* 💼 **Current Role:** AI Developer at PCS, Police Department (Chief Office)
+* 💼 **Current Role:** AI Developer 
 * 🎓 **Education:** B.Tech in Electronics and Communication Engineering
-* 💻 **Interests:** AI Development, Web Development, Data Analytics, and Automation
+* 💻 **Interests:** AI Development, Web Development, Data Analytics
 * 🛠️ **Development Approach:** AI-assisted coding and modern development workflows
 * 🌱 **Currently Exploring:** AI-powered applications, Next.js, and DevOps practices
 * 🎯 **Goal:** Build useful, reliable, and efficient technology solutions.
