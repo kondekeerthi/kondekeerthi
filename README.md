@@ -54,8 +54,15 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 ### 🔧 Version Control & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" alt="Git, GitHub, Vercel, Netlify" />
+  <img src="https://skillicons.dev/icons?i=git" height="25" alt="Git" /> Git
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="GitHub" /> GitHub
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="Vercel" /> Vercel
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="25" alt="Netlify" /> Netlify
 </p>
+
 
 ### ⚙️ DevOps & Development Workflows
 
