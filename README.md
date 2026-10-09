@@ -71,19 +71,6 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ---
 
-## 📊 GitHub Statistics
-
-Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kondekeerthi&show_icons=true&theme=tokyonight" alt="GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondekeerthi&layout=compact&theme=tokyonight" alt="Most used programming languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
